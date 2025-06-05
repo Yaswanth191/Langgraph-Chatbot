@@ -1,0 +1,5 @@
+cohere>=4.0.0
+langgraph>=0.0.5
+python-dotenv>=1.0.0
+pytest>=7.0.0
+pytest-mock>=3.0.0
