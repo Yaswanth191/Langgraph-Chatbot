@@ -12,7 +12,7 @@ This is a simple AI chatbot built using **LangGraph** and **Cohere API**.
 ##  How to Run
 
 1. **Install dependencies**
-   ```bash
+   git clone https://github.com/Yaswanth191/Langgraph-Chatbot/
    pip install -r requirements.txt
 
 ## Set up .env
